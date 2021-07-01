@@ -15,7 +15,7 @@
   
   ### Platform🚉
   <img src="https://img.shields.io/badge/-Xcode-%23147EFB?logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/>      
   
   ### My Status💯  
 
