@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&text=hi)
+![header](https://capsule-render.vercel.app/api?color=auto&text=ddosang's%github&type=slice)
 
 - 👋 Hi, I’m @ddosang
 - 👀 I’m interested in iOS programming
