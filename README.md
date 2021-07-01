@@ -10,7 +10,7 @@
   
   ### Skill📚
   <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swift-%23FA7343?logo=Swift&logoColor=white/">
+  <img src="https://img.shields.io/badge/-Swift-%23FA7343?logo=Swift&logoColor=black/">
   
   
   ### Platform🚉
