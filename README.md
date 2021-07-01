@@ -8,7 +8,7 @@
 💞️ I’m looking to collaborate on ...  
 📫 How to reach me limddosang@naver.com  
 
-
+  About me🦄  
   <a href="https://velog.io/@ddosang"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://www.notion.so/Eunji-Lim-2296063ab86b4f1ebcd483fb00c05efc"><img src="https://img.shields.io/badge/-Notion-black?logo=Notion"/></a>  
 </div>
