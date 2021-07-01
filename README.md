@@ -1,6 +1,5 @@
-<div align='center'>
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=8977AD&section=header&text=ddosang's%20github&fontColor=ffffff)
-</div>
+
 
 - 👋 Hi, I’m @ddosang
 - 👀 I’m interested in iOS programming
