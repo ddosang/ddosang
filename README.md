@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=#8977AD&text=ddosang's%20github)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=#8977AD&text=ddosang's%20github&fontColor=#000000)
 
 - 👋 Hi, I’m @ddosang
 - 👀 I’m interested in iOS programming
