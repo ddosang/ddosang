@@ -9,14 +9,9 @@
 
 <div align='center'>
   <a href="https://velog.io/@ddosang"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="https://www.notion.so/Eunji-Lim-2296063ab86b4f1ebcd483fb00c05efc"><img src="https://img.shields.io/badge/-Notion-black?logo=Notion"/></a>
-  
-<br>
-  
+  <a href="https://www.notion.so/Eunji-Lim-2296063ab86b4f1ebcd483fb00c05efc"><img src="https://img.shields.io/badge/-Notion-black?logo=Notion"/></a>  
 </div>
 
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=B19CD9&section=footer&text=thank%20you!&fontColor=000000)
 <!---
 ddosang/ddosang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
