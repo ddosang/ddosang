@@ -5,7 +5,6 @@
 👋 Hi, I’m @ddosang  
 👀 I’m interested in iOS programming  
 🌱 I’m currently learning Swift & SwiftUI  
-💞️ I’m looking to collaborate on ...  
 📫 How to reach me limddosang@naver.com 
   
   ### Skill📚
