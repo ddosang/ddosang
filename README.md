@@ -6,6 +6,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me limddosang@naver.com
 
+<div align='center'>
+	About me!
+  <a href="https://velog.io/@ddosang"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=B19CD9&section=footer&text=thank%20you!&fontColor=000000)
 <!---
