@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/-Xcode-%23147EFB?logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/>
 
+  ![ddosang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddosang&show_icons=true)
+  
   ### About me🦄  
   <a href="https://velog.io/@ddosang"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://www.notion.so/Eunji-Lim-2296063ab86b4f1ebcd483fb00c05efc"><img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=white"/></a>  
