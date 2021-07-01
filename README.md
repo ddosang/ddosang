@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Swift & SwiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me limddosang@naver.com
-About me!
+
 <div align='center'>
   <a href="https://velog.io/@ddosang"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
