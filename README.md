@@ -7,7 +7,7 @@
 - 📫 How to reach me limddosang@naver.com
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=B19CD9&section=footer&text=thank%20you!&fontColor=f1f3f5)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=B19CD9&section=footer&text=thank%20you!&fontColor=dee2e6)
 <!---
 ddosang/ddosang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
