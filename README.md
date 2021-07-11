@@ -3,12 +3,13 @@
 <div align='center'>
   
 👋 Hi, I’m @ddosang  
-👀 I’m interested in iOS programming  
+👀 I’m interested in iOS programming
 🌱 I’m currently learning Swift & SwiftUI  
+📬 eunjilim218@gmail.com
   
   ### Skill📚
   <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swift-%23ffffff?logo=Swift&logoColor=white/">
+  <ximg src="https://img.shields.io/badge/-Swift-%23ffffff?logo=Swift&logoColor=white/">
   
   
   ### Platform🚉
