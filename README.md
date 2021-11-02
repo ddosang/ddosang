@@ -2,10 +2,12 @@
 
 <div align='center'>
   
-👋 Hi, I’m @ddosang  
-👀 I’m interested in iOS programming  
-🌱 I’m currently learning Swift & SwiftUI  
-📬 eunjilim218@gmail.com  
+  
+###  👋 Hi, I’m @ddosang  
+### 👀 I’m interested in iOS programming and Front-end programming
+### 🌱 I’m currently learning Swift & SwiftUI 
+### 🦁 I'm currently participate in Front-end School be held in '멋쟁이사자처럼'
+### 📬 eunjilim218@gmail.com  
   
   ### Skill📚
   <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
