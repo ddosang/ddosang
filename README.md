@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/>      
   
   <br>
-  <img src="https://img.shields.io/badge/-VisualStudioCode-%23007ACC?logo=VisualStudioCode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-VisualStudioCode-%23007ACC?logo=VSCode&logoColor=white"/> 
   
   
   
