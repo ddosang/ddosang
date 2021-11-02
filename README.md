@@ -4,11 +4,11 @@
 
 
   
-#####  👋 Hi, I’m @ddosang  
-##### 👀 I’m interested in iOS programming and Front-end programming
-##### 🌱 I’m currently learning Swift & SwiftUI 
-##### 🦁 I'm currently participate in Front-end School be held in '멋쟁이사자처럼' as a student
-##### 📬 eunjilim218@gmail.com  
+👋 Hi, I’m @ddosang  
+👀 I’m interested in iOS programming and Front-end programming
+🌱 I’m currently learning Swift & SwiftUI 
+🦁 I'm currently participate in Front-end School be held in '멋쟁이사자처럼' as a student
+📬 eunjilim218@gmail.com  
   
   ### Skill📚
   <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
@@ -21,7 +21,7 @@
   
   ### My Status💯  
 
-  ![ddosang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddosang&show_icons=true)  
+  ![ddosang's GitHub status](https://github-readme-stats.vercel.app/api?username=ddosang&show_icons=true)  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddosang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
   
   ### Me🦄  
