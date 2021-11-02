@@ -36,9 +36,12 @@
   
   
   
-  ### My Status💯  
+  ### My Stats💯  
 
-  ![ddosang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddosang&show_icons=true)  
+  ![ddosang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddosang&show_icons=true) 
+  
+  <br>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddosang)](https://github.com/anuraghazra/github-readme-stats)  
   
   ### Me🦄  
