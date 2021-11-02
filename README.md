@@ -7,7 +7,7 @@
 #####  👋 Hi, I’m @ddosang  
 ##### 👀 I’m interested in iOS programming and Front-end programming
 ##### 🌱 I’m currently learning Swift & SwiftUI 
-##### 🦁 I'm currently participate in Front-end School be held in '멋쟁이사자처럼'
+##### 🦁 I'm currently participate in Front-end School be held in '멋쟁이사자처럼' as a student
 ##### 📬 eunjilim218@gmail.com  
   
   ### Skill📚
