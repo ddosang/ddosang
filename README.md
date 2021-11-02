@@ -19,13 +19,19 @@
   <img src="https://img.shields.io/badge/-Swift-%23ffffff?logo=Swift&logoColor=white/">
     
  <br>
-  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swift-%23ffffff?logo=Swift&logoColor=white/">
+  <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white/">
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white/">
   
   
   ### Platform🚉
   <img src="https://img.shields.io/badge/-Xcode-%23147EFB?logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/>      
+  
+  <br>
+  <img src="https://img.shields.io/badge/-VisualStudioCode-%23007ACC?logo=VisualStudioCode&logoColor=white"/> 
+  
+  
   
   ### My Status💯  
 
