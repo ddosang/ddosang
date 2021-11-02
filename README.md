@@ -23,11 +23,16 @@
   <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white/">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white/">
   
+  <br>
+  <img src="https://img.shields.io/badge/-Python-%233776ab?logo=Python&logoColor=white/">
+  <img src="https://img.shields.io/badge/-C-%23A8B9CC?logo=C&logoColor=white/">
+  <img src="https://img.shields.io/badge/-Java-%23007396?logo=Java&logoColor=white/">
+  
   
   ### Platform🚉
-  <img src="https://img.shields.io/badge/-Xcode-%23147EFB?logo=Xcode&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=VisualStuodioCode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Xcode-%23147EFB?logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=VisualStudioCode&logoColor=white"/> 
   
   
   
