@@ -38,8 +38,8 @@
   
   ### My Status💯  
 
-  ![ddosang's GitHub status](https://github-readme-stats.vercel.app/api?username=ddosang&show_icons=true)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddosang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  ![ddosang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddosang&show_icons=true)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddosang)](https://github.com/anuraghazra/github-readme-stats)  
   
   ### Me🦄  
   <a href="https://velog.io/@ddosang"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
