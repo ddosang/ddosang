@@ -1,7 +1,9 @@
 <div align='center'>
   
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=8977AD&section=header&text=ddosang's%20github&fontColor=ffffff">
-  
+
+<br>
+<br>
   
   
 👋 Hi, I’m @ddosang  
