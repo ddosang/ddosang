@@ -12,6 +12,8 @@
 🦁 I'm currently participate in Front-end School be held in '멋쟁이사자처럼' as a student  
 📬 eunjilim218@gmail.com  
   
+  <br>
+  
   ### Skill📚
   <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
   <ximg src="https://img.shields.io/badge/-Swift-%23ffffff?logo=Swift&logoColor=white/">
