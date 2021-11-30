@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Java-%23007396?logo=Java&logoColor=white">
   
   
-  ### Environment🌱
+  ### IDE💽
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Xcode-%23147EFB?logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?logo=VisualStudioCode&logoColor=white"/> 
