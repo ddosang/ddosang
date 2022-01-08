@@ -31,13 +31,13 @@
   
   ### Tools
   <img src="https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Github-%23181717?logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
   
   <br>
   <img src="https://img.shields.io/badge/-Jira-%230052CC?logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Gitlab-%23FCA121?logo=GitLab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitLab-%23FCA121?logo=GitLab&logoColor=white"/>
   
   
   
