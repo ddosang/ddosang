@@ -9,7 +9,7 @@
 👋 Hi, I’m @ddosang  
 👀 I’m interested in iOS programming and Front-end programming  
 🌱 I’m currently learning Swift & SwiftUI  
-🪟 I can make view with storyboard, xib or code  
+🪟 I prefer making view with code to with storyboard, xib
 📬 eunjilim218@gmail.com  
   
   <br>
